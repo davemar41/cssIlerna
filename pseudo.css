@@ -1,0 +1,9 @@
+p::first-letter{
+    color:red;
+}
+h1::after{
+    content: "tocame";
+}
+h1::before{
+    content: "mierda";
+}

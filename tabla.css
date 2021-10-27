@@ -1,0 +1,11 @@
+#tabla{
+    background-color: rgb(221, 221, 49);
+    border:1px dotted black;
+    border-collapse:collapse;
+}
+td{
+    border:1px dotted black;
+}
+.cabecera{
+    color: red;
+}

@@ -1,0 +1,18 @@
+#marca:link{
+    color: yellow;
+    font-size: 25px;
+
+}
+#marca:hover{
+    color: green;
+
+}
+#as{
+    color:blueviolet;
+    
+    font-size: 25px;
+}
+#as:hover{
+    color:red;
+
+}

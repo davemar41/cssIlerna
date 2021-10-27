@@ -1,0 +1,15 @@
+a:link{
+    color: green;
+}
+/*p{
+    background-color: blue;
+}*/
+a:hover{
+    color: brown;
+}
+b{
+    color: red;
+}
+#prueba{
+    font-size: 40px;
+}

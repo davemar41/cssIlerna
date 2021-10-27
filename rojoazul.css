@@ -1,0 +1,13 @@
+h3.rojo{
+    color: red;
+    position: absolute;top: 100px; left: 20px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h3.azul{
+    color: blue;
+    position: absolute;top: 30px; left: 20px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}

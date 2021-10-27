@@ -1,0 +1,29 @@
+#contenedor{
+   
+    background-color: rgb(175, 111, 235);
+    margin: 8px;
+    
+}
+
+ul{
+    display: flex;  
+    color: aliceblue;
+    text-decoration: none;
+    list-style: none;
+     
+}
+.xil{
+    padding: 10px;
+    margin: 10px; 
+}
+a{
+    text-decoration: none;
+    padding: 10px;
+    color: aliceblue;  
+    margin: 10px; 
+   
+    
+}
+.xil:hover{
+    background-color: blue;
+}

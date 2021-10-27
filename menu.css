@@ -1,0 +1,25 @@
+.xil {
+    
+}
+.xil a{
+    color: antiquewhite;
+    text-decoration: none;margin: 7px;
+    text-align:center;
+	padding:10px;
+}
+.xul{
+    display: flex;
+    list-style: none;
+    margin:15px;
+	padding:20px;
+}
+#contenedor{
+    display: flex;
+    background-color: rgb(180, 114, 241);
+}
+.xil a:hover{
+    background-color: blue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
